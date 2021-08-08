@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kesehatan_Anak</string>
+    <string name="ini_adalah_halaman_dashboard_saya">Ini adalah halaman dashboard saya.</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="kesehatan_anak">Kesehatan Anak</string>
+    <string name="menghitung_bb_anak">Menghitung BB Anak</string>
+    <string name="nutrisi_anak">Nutrisi Anak</string>
+    <string name="desc">gambar</string>
+    <string name="v_1_0">v 1.0</string>
+</resources>
